@@ -1,0 +1,1 @@
+perl EvaluateFunction.pl "A B C D E" %1
